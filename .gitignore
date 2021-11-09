@@ -1,0 +1,6 @@
+artifacts/
+cache/
+.env
+node_modules/
+typechain/
+*.code-workspace
